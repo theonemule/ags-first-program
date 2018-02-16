@@ -1,5 +1,5 @@
 # ags-first-program
 
-The source code from my daughters first program, immortalized on github. 
+## The source code from my daughter's first program, immortalized on github. 
 
-I have no idea what it does, but I'm sure it's awesome.
+## I have no idea what it does, but I'm sure it's awesome.
